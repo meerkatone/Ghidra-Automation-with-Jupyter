@@ -1,0 +1,13 @@
+jupyterlab
+numpy
+matplotlib
+pandas
+pwntools
+seaborn
+plotly
+bokeh==2.4.3 
+ghidra_jupyter
+ipywidgets
+requests
+pandas_bokeh
+jupyter-black
