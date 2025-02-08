@@ -1,11 +1,11 @@
 jupyterlab
-numpy
+numpy==1.23.5
 matplotlib
 pandas
 pwntools
 seaborn
 plotly
-bokeh==2.4.3 
+bokeh==2.4.3
 ghidra_jupyter
 ipywidgets
 requests
