@@ -15,11 +15,11 @@ Installation
 -	Ghidra: https://github.com/NationalSecurityAgency/ghidra/blob/master/README.md
 
 Download and install Jupyterlab and dependencies using 
-- https://github.com/meerkatone/Ghidra-Automation-with-Jupyter
+- https://github.com/meerkatone/ghidra_automation_with_jupyter
 - pip3 install -r requirements.txt
 
 Jupyter Notebook
-- https://github.com/meerkatone/Ghidra-Automation-with-Jupyter
+- https://github.com/meerkatone/ghidra_automation_with_jupyter
 
 Jupyter Notebook Modification
 - You will need to modify any code that points to a path with the correct path for your binaries
